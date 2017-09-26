@@ -1,0 +1,28 @@
+{
+  "name": "autogrow",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/username/repo"
+  },
+  "author": {
+    "name": "aashish ranjan",
+    "email": "aashish.bbdev@gmail.com"
+  },
+  "keywords": [
+    "angular"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/username/repo/issues"
+  },
+  "main": "autogrow.umd.js",
+  "module": "autogrow.js",
+  "jsnext:main": "autogrow.js",
+  "typings": "autogrow.d.ts",
+  "peerDependencies": {
+    "@angular/core": "^4.0.0",
+    "rxjs": "^5.1.0",
+    "zone.js": "^0.8.4"
+  }
+}
