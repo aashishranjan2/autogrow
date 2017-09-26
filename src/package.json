@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/username/repo"
+    "url": "https://github.com/aashishranjan2/autogrow.git"
   },
   "author": {
     "name": "aashish ranjan",
@@ -14,7 +14,7 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/username/repo/issues"
+    "url": "https://github.com/aashishranjan2/autogrow/issues"
   },
   "main": "autogrow.umd.js",
   "module": "autogrow.js",
